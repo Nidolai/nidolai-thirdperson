@@ -1,0 +1,13 @@
+{
+	"title"		:	"Nidolai's Thirdperson",
+	"type"		:	"effects",
+	"tags"		:	[ "roleplay", "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.jpg",
+		"*.md"
+	]
+}
